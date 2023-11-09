@@ -50,7 +50,7 @@
             </div>
         </div>
     </div>
-    <!-- footer section ends -->
+    
 </footer>
 </div>
 <script src="./js/main.js"></script>
